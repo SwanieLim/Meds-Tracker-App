@@ -1,0 +1,8 @@
+{
+  "name": "Family Meds Tracker",
+  "description": "Multi-user family medication and inventory tracker with refill alerts, dosage management, and alternative brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
